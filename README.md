@@ -1,4 +1,3 @@
-<a href="#"><img style="align:center;" width="100%" height="auto" src="https://i.imgur.com/yItlPGh.png" /></a>
 
 <h1 align="center">Hi 👋, I'm Shuvo</h1>
 <h3 align="center">A passionate .Net Full Stack Developer</h3>
