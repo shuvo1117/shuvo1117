@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shuvo</h1>
-<h3 align="center">A passionate .Net Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <a href="https://git.io/typing-svg">
   <div style="text-align: right;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+love+solving+Problems+with+code" alt="Typing SVG" />
